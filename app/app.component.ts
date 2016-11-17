@@ -26,7 +26,7 @@ const HEROES: Hero[] = [
     template: `
   <h1>{{title}}</h1>
   <h2>My Heroes</h2>
-    <ul>
+    <ul class="heroes">
         <li *ngFor="let hero of heroes">
             <span class="badge">{{hero.id}}</span> {{hero.name}}
         </li>
