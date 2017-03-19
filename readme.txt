@@ -22,5 +22,7 @@ cd appName
 4 - 
 ng serve
 
+II - Cai dat typescript
 
+npm install -g typescript
 
