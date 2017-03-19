@@ -26,3 +26,7 @@ II - Cai dat typescript
 
 npm install -g typescript
 
+III - Link URL
+
+https://www.typescriptlang.org/
+
