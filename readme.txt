@@ -8,7 +8,7 @@ npm start
 finish Styling our heroes 3.Master/Detail
 
 
-Cai dat cli
+I - Cai dat cli :
 
 1 - 
 npm install -g angular-cli
